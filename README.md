@@ -23,11 +23,10 @@ All struct declarations must be preceded by the ```struct``` keyword.
 
 The pointer should be on the name and not the type. In assembly where types are
 not a thing but the registers ```eax``` and memory loads ```[eax]``` are it just
-makes more sense. In C is based on the "declarations follow use" principle so for
-example, an array which is really just a pointer is defined as such:
-```int numbers[200];```
-
-Not, ```int[200] numbers;``` and the same goes for function pointers.
+makes more sense. C is based on the "declarations follow use" principle so for
+example, an array which is really just a pointer is defined as such: ```int
+numbers[200];```. Not, ```int[200] numbers;``` and the same goes for function
+pointers or any other construct.
 
 ```This_Is_My_Type *type = NULL;```
 
