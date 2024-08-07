@@ -16,6 +16,9 @@ few slight changes. Particularly with capitalisation of structure types.
 //
 ```
 
+# Indentation
+Four spaces are used for indentation.
+
 ## Types
 All struct declarations must be preceded by the ```struct``` keyword.
 ```struct This_Is_My_Type```
