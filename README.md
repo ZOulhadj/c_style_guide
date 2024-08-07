@@ -16,7 +16,7 @@ few slight changes. Particularly with capitalisation of structure types.
 //
 ```
 
-# Indentation
+## Indentation
 Four spaces are used for indentation.
 
 ## Types
