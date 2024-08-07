@@ -3,8 +3,9 @@
 This is my own personal style guide that I use for my personal projects. It is
 based mostly off of my experience and trying to understand the significance and
 implications of different programming styles. My style is heavily influenced by
-Linux kernel coding style with a few slight changes. Particularly with
-capitalisation of structure types.
+[Linux kernel coding
+style](https://www.kernel.org/doc/html/v4.10/process/coding-style.html) with a
+few slight changes. Particularly with capitalisation of structure types.
 
 ## Comments
 ```
