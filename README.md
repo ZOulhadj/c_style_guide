@@ -32,7 +32,7 @@ example, an array which is really just a pointer is defined as such: ```int
 numbers[200];```. Not, ```int[200] numbers;``` and the same goes for function
 pointers or any other construct.
 
-```This_Is_My_Type *type = NULL;```
+```struct This_Is_My_Type *type = NULL;```
 
 ## Functions
 ```
