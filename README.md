@@ -36,7 +36,7 @@ pointers or any other construct.
 
 ## Functions
 ```
-int my_function(This_Is_My_Type *type)
+int my_function(struct This_Is_My_Type *type)
 {
     if (true) {
 
